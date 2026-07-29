@@ -1,0 +1,6 @@
+{
+  "name": "LicenciaPro SaaS",
+  "description": "Sistema SaaS para gestión de vacaciones, licencias de personal, permisos especiales, flujos de aprobación jerárquicos y mapa de ausencias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
